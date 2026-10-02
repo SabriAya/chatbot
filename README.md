@@ -90,7 +90,7 @@ ai-chatbot/
 
 ---
 
-![AI Chatbot Preview](./preview.gif)
+![AI Chatbot Preview](./preview.png)
 
 ---
 
