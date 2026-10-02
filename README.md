@@ -90,6 +90,7 @@ ai-chatbot/
 
 ---
 
+## 📸 Aperçu visuel
 ![AI Chatbot Preview](./preview.png)
 
 ---
